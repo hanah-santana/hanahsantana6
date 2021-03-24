@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 -->
 
-- 🔭 I’m currently working on and learning about telemetry systems.
+- 💻 I’m currently working on and learning about telemetry systems.
 - 📖 I’m currently learning Javascript and Web Development.
 - 🎯 I aim to learn and work with UX/UI design and FrontEnd Development.
 - 🔭 Fact about me: I have a wide interest in learning anything.
