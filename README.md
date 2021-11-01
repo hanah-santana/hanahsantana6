@@ -12,8 +12,8 @@
 
 - 💻 I’m currently working on and learning about telemetry systems.
 - 📖 I’m currently learning he basics of Web Development.
-- 🎯 I aim to learn and work with UX/UI design and FrontEnd or Mobile Development.
-- 🔭 Fact about me: I am a person very excited to learn.
+- 🎯 I aim to learn and work with FrontEnd or Mobile Development and UX/UI design.
+- 🔭 Fact about me: I am a very excited person to learn and help.
 
 
 
