@@ -1,4 +1,4 @@
-### Hello, welcome! I'm a beginner, learning a lot and seeking to acquire experience.
+### Hello, welcome! I'm learning a lot and seeking to acquire experience.
 
 <!--
 **hanahsantana6/hanahsantana6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
