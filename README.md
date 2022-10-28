@@ -9,11 +9,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-
-- 💻 I’m currently working on and learning about telemetry systems.
-- 📖 I’m currently learning he basics of Web Development and UX.
-- 🎯 I aim to learn and work with FrontEnd or Mobile Development and UX/UI design.
-- 🔭 Fact about me: I am a very excited person to learn and help.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hanah-santana-b40312207/) or my E-mail: hanah.santana6@gmail.com
+- 💻 I’m currently working on and learning about mobile iOS Development.
+- 📖 I’m currently learning he basics of Swift and UX Design.
+- 🎯 I aim to learn and work with Mobile Development and UX/UI design.
+- 🔭 Fact about me: I am a very excited person to learn and be helpful.
 
 
 
